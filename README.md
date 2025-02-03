@@ -21,10 +21,10 @@
 
 ## 💻 Competitive Programming Profiles
 [![HackerRank](https://img.shields.io/badge/HackerRank-zhdipto-brightgreen?logo=hackerrank&style=for-the-badge)](https://www.hackerrank.com/zhdipto)  
-[![AtCoder](https://img.shields.io/badge/AtCoder-zhdipto-blue?logo=atcoder&style=for-the-badge)](https://atcoder.jp/users/zhdipto)  
+[![AtCoder](https://img.shields.io/badge/AtCoder-zhdipto-black?logo=atcoder&style=for-the-badge)](https://atcoder.jp/users/zhdipto)  
 [![LeetCode](https://img.shields.io/badge/LeetCode-zhdipto-orange?logo=leetcode&style=for-the-badge)](https://leetcode.com/zhdipto)  
 [![CodeChef](https://img.shields.io/badge/CodeChef-zhdipto-brown?logo=codechef&style=for-the-badge)](https://www.codechef.com/users/zhdipto)  
-[![Codeforces](https://img.shields.io/badge/Codeforces-zhdipto-blue?logo=codeforces&logoColor=yellow&style=for-the-badge)](https://codeforces.com/profile/zhdipto)  
+[![Codeforces](https://img.shields.io/badge/Codeforces-zhdipto-yellow?logo=codeforces&logoColor=yellow&style=for-the-badge)](https://codeforces.com/profile/zhdipto)  
 
 ---
 
